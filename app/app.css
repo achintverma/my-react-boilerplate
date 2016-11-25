@@ -1,0 +1,41 @@
+h1{
+	font-size: 18px;
+	font-weight: bold;
+	color: #999; 
+	margin: 20px auto;
+}
+
+header{
+	background-color: #eee;
+}
+
+footer{
+	position: fixed;
+	bottom: 0px;
+	height: 30px;
+	line-height: 30px;
+	border-top:1px solid #eee;
+	color: #999;
+	width: 100%;
+	font-size: 0.8em;
+}
+
+#main-container{
+	margin-bottom: 30px;
+}
+
+#intro{
+	padding: 200px;
+	text-align: center;
+}
+
+#intro h1{
+	font-size: 48px;
+	font-weight: 300;
+	color: #999;
+}
+
+#intro p{
+	font-size: 16px;
+	color: #666;
+}
